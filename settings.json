@@ -1,0 +1,24 @@
+{
+    "window.restoreWindows": "none",
+    "workbench.startupEditor": "newUntitledFile",
+    "team.showWelcomeMessage": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14,
+    "editor.insertSpaces": false,
+    "zenMode.hideTabs": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "e2e": true,
+        "node_modules": true,
+        ".editorconfig": true,
+        ".protractor.conf.js": true,
+        "karma.conf.js": true
+    },
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "vscode-icons"
+}
