@@ -7,6 +7,7 @@
     "editor.fontSize": 14,
     "editor.insertSpaces": false,
     "zenMode.hideTabs": false,
+    "zenMode.centerLayout": true,
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
